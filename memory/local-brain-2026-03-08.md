@@ -1,0 +1,1 @@
+- 2026-03-08T09:48:05.667Z [fact:agent:local-brain] agent=local-brain source=memory_store 这是测试记忆 - 本地 OpenClaw 已升级到 2026.3.7，记忆插件 memory-lancedb-pro 已安装并启用
