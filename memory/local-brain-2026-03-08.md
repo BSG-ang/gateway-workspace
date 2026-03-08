@@ -1,1 +1,2 @@
 - 2026-03-08T09:48:05.667Z [fact:agent:local-brain] agent=local-brain source=memory_store 这是测试记忆 - 本地 OpenClaw 已升级到 2026.3.7，记忆插件 memory-lancedb-pro 已安装并启用
+- 2026-03-08T10:03:12.245Z [decision:agent:local-brain] agent=local-brain source=memory_store AGENTS.md 已更新 - 添加了 5 条记忆系统铁律：双层记忆存储、LanceDB 卫生、Recall before retry、编辑前确认代码库、插件变更清缓存
